@@ -1,12 +1,4 @@
-# Group 23 FDFED
 
-# Team Members
-
-* Yash Gupta S20200010234
-* Saathvika Bandii S20200010180
-* Avinash Bhojanapalli S20200010038
-* Chetan Reddy Battula S20200010036
-* YVV Kalyan S20200010237
 
 ## How to run the project
 
